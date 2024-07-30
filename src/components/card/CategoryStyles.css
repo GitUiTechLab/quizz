@@ -1,0 +1,175 @@
+
+.cat-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.category-section {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  max-width: 1268px;
+}
+
+.category-item {
+  font-size: 16px;
+  padding: 12px 10px;
+  margin-bottom: 2px;
+}
+
+.category-card {
+  max-width: 23.7%;
+}
+
+.navbar-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.footer-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.content-container {
+  margin-top: 60px; 
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 480px) {
+  .category-container {
+    width: 100%;
+
+  }
+  .category-container div {
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .category-container div h1 {
+    font-size: 16px;
+  }
+  .category-container div p {
+    font-size: 8px;
+  }
+  .illustration-container {
+    margin-top: -100px;
+  }
+  .illustration-container img {
+    width: 300px;
+  }
+  .category-card  {
+    max-width: 100%;
+  }
+  .category-card .card-title {
+    font-size: 18px;
+  }
+  .category-card .card-description, .card-details {
+    font-size: 10px;
+  }
+  .category-card .enroll-button {
+    font-size: 14px;
+  }
+  .category-card .sec-pad {
+    padding: 20px;
+  }
+  .category-card .category-list {
+    max-width: 100%;
+  }
+  .category-card .Explore-title{
+    margin-left: 10px;
+    margin-bottom: 25px;
+  }
+  .category-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+  }
+  .category-item {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .category-container {
+    width: 100%;
+
+  }
+
+  .category-container div {
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .category-container div h1 {
+    font-size: 32px;
+  }
+
+  .category-container div p {
+    font-size: 16px;
+  }
+
+  .illustration-container {
+    margin-top: -100px;
+  }
+
+  .illustration-container img {
+    width: 300px;
+  }
+
+  .category-card {
+    max-width: 45%;
+  }
+  .category-card .card-title {
+    font-size: 20px;
+  }
+  .category-card .card-description, .card-details {
+    font-size: 12px;
+  }
+  .category-card .category-list{
+    max-width: 250px;
+  }
+  .searchbar-container{
+    width: 700px;
+  }
+  .category-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px;
+    max-width: 93%;
+  }
+  .category-item {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .category-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px;
+  }
+  .category-item {
+    font-size: 16px;
+  }
+}

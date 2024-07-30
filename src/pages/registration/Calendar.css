@@ -1,0 +1,22 @@
+.calendarIcon {
+    right: 8px;
+    font-size: 22px;
+    fill: #BBBBBB;
+    cursor: pointer;
+}
+
+.react-datepicker-wrapper input {
+    padding-left: 8px !important;
+}
+
+
+.custom-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24"><path fill="black" d="M2 6 L12 17 22 6z"/></svg>') no-repeat right 10px center;
+    background-color: #F8FAFC;
+    padding-right: 30px; /* Adjust this value based on the width of your icon */
+}
+
+

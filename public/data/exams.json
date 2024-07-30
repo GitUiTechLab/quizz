@@ -1,0 +1,1697 @@
+{
+    "Exam Category 1": [
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ],
+    "Exam Category 2": [
+        {
+            "id": 8,
+            "title": "Engineering Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 70000,
+            "users": "120k+"
+        },
+        {
+            "id": 9,
+            "title": "Medical Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 10,
+            "title": "Architecture Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 72000,
+            "users": "130k+"
+        },
+        {
+            "id": 11,
+            "title": "Design Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 41000,
+            "originalPrice": 71000,
+            "users": "140k+"
+        },
+        {
+            "id": 12,
+            "title": "Law Entrance Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 44000,
+            "originalPrice": 74000,
+            "users": "150k+"
+        },
+        {
+            "id": 13,
+            "title": "HM Entrance Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 73000,
+            "users": "120k+"
+        },
+        {
+            "id": 14,
+            "title": "BBA Entrance Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 76000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ],
+    "Exam Category 3": [
+        {
+            "id": 15,
+            "title": "CA Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 50000,
+            "originalPrice": 90000,
+            "users": "160k+"
+        },
+        {
+            "id": 16,
+            "title": "Company Sctry Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 85000,
+            "users": "150k+"
+        },
+        {
+            "id": 17,
+            "title": "CFA Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "140k+"
+        },
+        {
+            "id": 18,
+            "title": "MBA Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 87000,
+            "users": "130k+"
+        },
+        {
+            "id": 19,
+            "title": "Bank PO Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 80000,
+            "users": "120k+"
+        },
+        {
+            "id": 20,
+            "title": "UPSC Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 79000,
+            "users": "140k+"
+        },
+        {
+            "id": 21,
+            "title": "State PSC Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 78000,
+            "users": "130k+"
+        },
+        {
+            "id": 15,
+            "title": "CA Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 50000,
+            "originalPrice": 90000,
+            "users": "160k+"
+        },
+        {
+            "id": 16,
+            "title": "Company Sctry Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 85000,
+            "users": "150k+"
+        },
+        {
+            "id": 17,
+            "title": "CFA Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "140k+"
+        },
+        {
+            "id": 18,
+            "title": "MBA Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 87000,
+            "users": "130k+"
+        },
+        {
+            "id": 19,
+            "title": "Bank PO Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 80000,
+            "users": "120k+"
+        },
+        {
+            "id": 20,
+            "title": "UPSC Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 79000,
+            "users": "140k+"
+        },
+        {
+            "id": 21,
+            "title": "State PSC Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 78000,
+            "users": "130k+"
+        },
+        {
+            "id": 15,
+            "title": "CA Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 50000,
+            "originalPrice": 90000,
+            "users": "160k+"
+        },
+        {
+            "id": 16,
+            "title": "Company Sctry Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 85000,
+            "users": "150k+"
+        },
+        {
+            "id": 17,
+            "title": "CFA Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "140k+"
+        },
+        {
+            "id": 18,
+            "title": "MBA Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 87000,
+            "users": "130k+"
+        },
+        {
+            "id": 19,
+            "title": "Bank PO Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 80000,
+            "users": "120k+"
+        },
+        {
+            "id": 20,
+            "title": "UPSC Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 79000,
+            "users": "140k+"
+        },
+        {
+            "id": 21,
+            "title": "State PSC Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 78000,
+            "users": "130k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ],
+    "Exam Category 4": [
+        {
+            "id": 22,
+            "title": "IELTS Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 23,
+            "title": "TOEFL Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 77000,
+            "users": "140k+"
+        },
+        {
+            "id": 24,
+            "title": "GRE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "130k+"
+        },
+        {
+            "id": 25,
+            "title": "GMAT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "160k+"
+        },
+        {
+            "id": 26,
+            "title": "SAT Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 84000,
+            "users": "120k+"
+        },
+        {
+            "id": 27,
+            "title": "ACT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 83000,
+            "users": "130k+"
+        },
+        {
+            "id": 28,
+            "title": "PTE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 81000,
+            "users": "110k+"
+        },
+        {
+            "id": 22,
+            "title": "IELTS Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 23,
+            "title": "TOEFL Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 77000,
+            "users": "140k+"
+        },
+        {
+            "id": 24,
+            "title": "GRE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "130k+"
+        },
+        {
+            "id": 25,
+            "title": "GMAT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "160k+"
+        },
+        {
+            "id": 26,
+            "title": "SAT Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 84000,
+            "users": "120k+"
+        },
+        {
+            "id": 27,
+            "title": "ACT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 83000,
+            "users": "130k+"
+        },
+        {
+            "id": 28,
+            "title": "PTE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 81000,
+            "users": "110k+"
+        },
+        {
+            "id": 22,
+            "title": "IELTS Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 23,
+            "title": "TOEFL Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 77000,
+            "users": "140k+"
+        },
+        {
+            "id": 24,
+            "title": "GRE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "130k+"
+        },
+        {
+            "id": 25,
+            "title": "GMAT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "160k+"
+        },
+        {
+            "id": 26,
+            "title": "SAT Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 84000,
+            "users": "120k+"
+        },
+        {
+            "id": 27,
+            "title": "ACT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 83000,
+            "users": "130k+"
+        },
+        {
+            "id": 28,
+            "title": "PTE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 81000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ],
+    "Exam Category 5": [
+        {
+            "id": 22,
+            "title": "IELTS Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 23,
+            "title": "TOEFL Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 77000,
+            "users": "140k+"
+        },
+        {
+            "id": 24,
+            "title": "GRE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "130k+"
+        },
+        {
+            "id": 25,
+            "title": "GMAT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "160k+"
+        },
+        {
+            "id": 26,
+            "title": "SAT Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 84000,
+            "users": "120k+"
+        },
+        {
+            "id": 27,
+            "title": "ACT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 83000,
+            "users": "130k+"
+        },
+        {
+            "id": 28,
+            "title": "PTE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 81000,
+            "users": "110k+"
+        },
+        {
+            "id": 22,
+            "title": "IELTS Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 23,
+            "title": "TOEFL Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 77000,
+            "users": "140k+"
+        },
+        {
+            "id": 24,
+            "title": "GRE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "130k+"
+        },
+        {
+            "id": 25,
+            "title": "GMAT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "160k+"
+        },
+        {
+            "id": 26,
+            "title": "SAT Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 84000,
+            "users": "120k+"
+        },
+        {
+            "id": 27,
+            "title": "ACT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 83000,
+            "users": "130k+"
+        },
+        {
+            "id": 28,
+            "title": "PTE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 81000,
+            "users": "110k+"
+        },
+        {
+            "id": 22,
+            "title": "IELTS Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "150k+"
+        },
+        {
+            "id": 23,
+            "title": "TOEFL Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 42000,
+            "originalPrice": 77000,
+            "users": "140k+"
+        },
+        {
+            "id": 24,
+            "title": "GRE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "130k+"
+        },
+        {
+            "id": 25,
+            "title": "GMAT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "160k+"
+        },
+        {
+            "id": 26,
+            "title": "SAT Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 84000,
+            "users": "120k+"
+        },
+        {
+            "id": 27,
+            "title": "ACT Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 83000,
+            "users": "130k+"
+        },
+        {
+            "id": 28,
+            "title": "PTE Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 81000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ],
+    "Exam Category 6": [
+        {
+            "id": 15,
+            "title": "CA Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 50000,
+            "originalPrice": 90000,
+            "users": "160k+"
+        },
+        {
+            "id": 16,
+            "title": "Company Sctry Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 85000,
+            "users": "150k+"
+        },
+        {
+            "id": 17,
+            "title": "CFA Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "140k+"
+        },
+        {
+            "id": 18,
+            "title": "MBA Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 87000,
+            "users": "130k+"
+        },
+        {
+            "id": 19,
+            "title": "Bank PO Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 80000,
+            "users": "120k+"
+        },
+        {
+            "id": 20,
+            "title": "UPSC Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 79000,
+            "users": "140k+"
+        },
+        {
+            "id": 21,
+            "title": "State PSC Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 78000,
+            "users": "130k+"
+        },
+        {
+            "id": 15,
+            "title": "CA Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 50000,
+            "originalPrice": 90000,
+            "users": "160k+"
+        },
+        {
+            "id": 16,
+            "title": "Company Sctry Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 85000,
+            "users": "150k+"
+        },
+        {
+            "id": 17,
+            "title": "CFA Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "140k+"
+        },
+        {
+            "id": 18,
+            "title": "MBA Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 87000,
+            "users": "130k+"
+        },
+        {
+            "id": 19,
+            "title": "Bank PO Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 80000,
+            "users": "120k+"
+        },
+        {
+            "id": 20,
+            "title": "UPSC Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 79000,
+            "users": "140k+"
+        },
+        {
+            "id": 21,
+            "title": "State PSC Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 78000,
+            "users": "130k+"
+        },
+        {
+            "id": 15,
+            "title": "CA Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 50000,
+            "originalPrice": 90000,
+            "users": "160k+"
+        },
+        {
+            "id": 16,
+            "title": "Company Sctry Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 48000,
+            "originalPrice": 85000,
+            "users": "150k+"
+        },
+        {
+            "id": 17,
+            "title": "CFA Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 47000,
+            "originalPrice": 82000,
+            "users": "140k+"
+        },
+        {
+            "id": 18,
+            "title": "MBA Entrance Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 49000,
+            "originalPrice": 87000,
+            "users": "130k+"
+        },
+        {
+            "id": 19,
+            "title": "Bank PO Exam",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 46000,
+            "originalPrice": 80000,
+            "users": "120k+"
+        },
+        {
+            "id": 20,
+            "title": "UPSC Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 79000,
+            "users": "140k+"
+        },
+        {
+            "id": 21,
+            "title": "State PSC Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 43000,
+            "originalPrice": 78000,
+            "users": "130k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ],
+    "Exam Category 7": [
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NID UCEED EXAM",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        },
+        {
+            "id": 4,
+            "title": "Banking Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 40000,
+            "originalPrice": 75000,
+            "users": "130k+"
+        },
+        {
+            "id": 5,
+            "title": "Railway Exams",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-5.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 37000,
+            "originalPrice": 65000,
+            "users": "120k+"
+        },
+        {
+            "id": 6,
+            "title": "SSC Exams",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-6.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 39000,
+            "originalPrice": 70000,
+            "users": "140k+"
+        },
+        {
+            "id": 7,
+            "title": "Teaching Exams",
+            "description": "20 Practice Tests",
+            "image": "/assets/Rectangle-4.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 36000,
+            "originalPrice": 68000,
+            "users": "110k+"
+        },
+        {
+            "id": 1,
+            "title": "National Bar Exam",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-1.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 2,
+            "title": "NIFT NID UCEED",
+            "description": "25 Practice Tests",
+            "image": "/assets/Rectangle-2.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 35098,
+            "originalPrice": 60000,
+            "users": "110k+"
+        },
+        {
+            "id": 3,
+            "title": "Civil Services Exam",
+            "description": "30 Practice Tests",
+            "image": "/assets/Rectangle-3.png",
+            "languages": "English, Hindi, +6 more",
+            "price": 45000,
+            "originalPrice": 80000,
+            "users": "150k+"
+        }
+    ]
+
+}
