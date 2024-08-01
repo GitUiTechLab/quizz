@@ -13,6 +13,7 @@ function App() {
                 <Route path="/registration" element={<Registration />} />
                 <Route path='/categories' element={<Category />} />
                 <Route path='/getstarted' element={<GetStarted />} />
+                <Route path="/category/:name" element={<Category />} />
             </Routes>
         </BrowserRouter>
     );

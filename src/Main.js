@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import Navbar from "./components/navbar/Navbar";
 import Banner from "./pages/Banner";
 import Stats from "./pages/Stats";
@@ -12,6 +12,7 @@ import ExamSection from "./pages/ExamSection";
 
 function Main() {
     const [activeCategory, setActiveCategory] = useState("Exam Category 1");
+    const examSectionRef = useRef(null); // Create a ref for the ExamSection
 
     const categories = [
         "Exam Category 1",
@@ -29,13 +30,14 @@ function Main() {
             <div className="w-full sticky top-0 z-30">
                 <Navbar />
             </div>
-            <div className="">
-                <Banner />
+            <div>
+                <Banner scrollToExamSection={() => examSectionRef.current.scrollIntoView({ behavior: 'smooth' })} />
             </div>
             <div className="absolute top-[510px] left-0 right-0">
                 <Stats />
             </div>
             <ExamSection
+                ref={examSectionRef}
                 categories={categories}
                 activeCategory={activeCategory}
                 onCategoryClick={handleCategoryClick}

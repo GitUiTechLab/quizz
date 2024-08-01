@@ -6,11 +6,16 @@
   gap: 20px;
 }
 
+
 .category-section {
   display: flex;
   flex-direction: row;
   gap: 30px;
-  max-width: 1268px;
+  max-width: 100%;
+}
+
+.category-section .categorylist-head {
+  display: none;
 }
 
 .category-item {

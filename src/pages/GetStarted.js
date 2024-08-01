@@ -1,11 +1,14 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import Navbar from "../components/navbar/Navbar";
 import Footer from "../pages/Footer";
 import "../components/card/CategoryStyles.css"; 
 
 function GetStarted() {
+    const navigate = useNavigate();
+
     const examData = [
-        { id: 1, name: "Exam Name", logo: "/assets/clat.png" },
+        { id: 1, name: "SSC", logo: "/assets/clat.png" },
         { id: 2, name: "Exam Name", logo: "/assets/nlu.jpeg" },
         { id: 3, name: "Exam Name", logo: "/assets/clat.png" },
         { id: 4, name: "Exam Name", logo: "/assets/nlu.jpeg" },
@@ -18,6 +21,10 @@ function GetStarted() {
         { id: 11, name: "Exam Name", logo: "/assets/clat.png" },
         { id: 12, name: "Exam Name", logo: "/assets/nlu.jpeg" },
     ];
+
+    const handleExamClick = (name) => {
+        navigate(`/category/${name}`);
+    };
 
     return (
         <div className="category-page flex flex-col min-h-screen bg-white">
@@ -39,8 +46,12 @@ function GetStarted() {
             </div>
             <div className="exam-grid bg-[#F3F3FF] py-6">
                 <div className="max-w-[1268px] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4">
-                    {examData.map((exam) => (
-                        <div key={exam.id} className="exam-card bg-white p-4 shadow-md rounded-lg flex flex-col items-center justify-center">
+                {examData.map((exam) => (
+                        <div
+                            key={exam.id}
+                            className="exam-card bg-white p-4 shadow-md rounded-lg flex flex-col items-center justify-center cursor-pointer"
+                            onClick={() => handleExamClick(exam.name)}
+                        >
                             <img src={exam.logo} alt={`${exam.name} Logo`} className="w-20 rounded-full h-20 mb-4" />
                             <p className="text-lg font-medium">{exam.name}</p>
                         </div>

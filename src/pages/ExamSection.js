@@ -3,8 +3,9 @@ import SearchBar from "../components/card/SearchBar";
 import CategoryList from "../components/card/CategoryList";
 import Card from "../components/card/Card";
 
-function ExamSection({ categories, activeCategory, onCategoryClick }) {
+const ExamSection = React.forwardRef(({ categories, activeCategory, onCategoryClick }, ref) => {
     const [exams, setExams] = useState([]);
+    const [searchTerm, setSearchTerm] = useState("");
 
     useEffect(() => {
         const fetchExams = async () => {
@@ -15,15 +16,20 @@ function ExamSection({ categories, activeCategory, onCategoryClick }) {
         fetchExams();
     }, [activeCategory]);
 
+    const handleSearch = (term) => {
+        setSearchTerm(term.toLowerCase());
+    };
+
+    const filteredExams = exams.filter((exam) =>
+        exam.title.toLowerCase().includes(searchTerm)
+    );
+
     return (
-        <div className="Exam-Section">
+        <div ref={ref} className="Exam-Section">
             <div>
-                <SearchBar />
+                <SearchBar onSearch={handleSearch} />
             </div>
             <div className="sec-pad p-[50px]">
-                <div className="Explore-title h-[22px] p-1 mb-10 ml-32">
-                    Explore by Category
-                </div>
                 <div className="card-container">
                     <div className="flex first-three-container">
                         <CategoryList
@@ -31,7 +37,7 @@ function ExamSection({ categories, activeCategory, onCategoryClick }) {
                             activeCategory={activeCategory}
                             onCategoryClick={onCategoryClick}
                         />
-                        {exams.slice(0, 7).map((exam, index) => (
+                        {filteredExams.slice(0, 7).map((exam, index) => (
                             <Card className="flex-1" exam={exam} index={index} key={exam.id} />
                         ))}
                     </div>
@@ -39,6 +45,6 @@ function ExamSection({ categories, activeCategory, onCategoryClick }) {
             </div>
         </div>
     );
-}
+});
 
 export default ExamSection;
